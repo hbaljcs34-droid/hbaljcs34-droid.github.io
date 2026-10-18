@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Sitemap: https://hbaljcs34-droid.github.io/sitemap.xml
+# Le Bon Appareil — https://hbaljcs34-droid.github.io

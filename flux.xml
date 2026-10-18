@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+  <title>Le Bon Appareil</title>
+  <link>https://hbaljcs34-droid.github.io</link>
+  <description>Les appareils de la maison, choisis avec des chiffres.</description>
+  <language>fr-FR</language>
+  <item>
+    <title>Quel poêle à granulés choisir ?</title>
+    <link>https://hbaljcs34-droid.github.io/poele-a-granules/</link>
+    <guid>https://hbaljcs34-droid.github.io/poele-a-granules/</guid>
+    <pubDate>Sun, 18 Oct 2026 11:43:26 +0000</pubDate>
+    <description>Guide d’achat chiffré : contraintes d’installation, caractéristiques relevées et coût à l’usage.</description>
+  </item>
+  <item>
+    <title>Quel aspirateur robot choisir ?</title>
+    <link>https://hbaljcs34-droid.github.io/aspirateur-robot/</link>
+    <guid>https://hbaljcs34-droid.github.io/aspirateur-robot/</guid>
+    <pubDate>Sun, 18 Oct 2026 11:43:26 +0000</pubDate>
+    <description>Guide d’achat chiffré : contraintes d’installation, caractéristiques relevées et coût à l’usage.</description>
+  </item>
+</channel></rss>
